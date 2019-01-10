@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-acf-cookie-notice",
+    "description": "Front-end-plugin för GDPR-funktion (kallat cookie-notice)",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
