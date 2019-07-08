@@ -19,6 +19,15 @@ D) En funktion för att kontrollera om en cookie är satt eller inte
 OBS! Denna plugin förutsätter att du har installerat och aktiverat Advanced Custom Fields Pro (https://www.advancedcustomfields.com/pro/)
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell på:
+```sh
+A) Gnu.org (https://www.gnu.org/licenses/gpl-3.0.html)
+B) Wikipedia (https://sv.wikipedia.org/wiki/GNU_General_Public_License)
+```
+
+
 ## Installation och aktivering
 
 ```sh
@@ -121,6 +130,9 @@ function setCookie(name,value,days) {
 
 
 ## Versionhistorik
+
+### 1.1.0
+- Lagt till information om licensmodell
 
 ### 1.0.0
 - Första version
