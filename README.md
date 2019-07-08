@@ -131,6 +131,9 @@ function setCookie(name,value,days) {
 
 ## Versionhistorik
 
+### 1.2.0
+- Uppdaterat readme med nya länkar
+
 ### 1.1.0
 - Lagt till information om licensmodell
 

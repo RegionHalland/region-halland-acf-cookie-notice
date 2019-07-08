@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland ACF Cookie Notice
 	Description: ACF-fält för text till en cookie notice
-	Version: 1.1.0
+	Version: 1.2.0
 	Author: Roland Hydén
 	License: GPL-3.0
 	Text Domain: regionhalland
