@@ -130,6 +130,9 @@ function setCookie(name,value,days) {
 
 ## Versionhistorik
 
+### 1.3.1
+- Korrigerat versionsnummer
+
 ### 1.3.0
 - Bifogat fil med licensmodell
 
